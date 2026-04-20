@@ -35,22 +35,36 @@
 |3,1,36,0,1,0,1776256527,"."
 
 # File marks:
-'0  1  0  ~/index.html
-|4,48,1,0,1776336806,"~/index.html"
-'1  6  0  ~/project/.git/MERGE_MSG
-|4,49,6,0,1776257266,"~/project/.git/MERGE_MSG"
-'2  9  0  ~/project/.git/MERGE_MSG
-|4,50,9,0,1776256531,"~/project/.git/MERGE_MSG"
+'0  1  0  ~/myapp/index.html
+|4,48,1,0,1776503439,"~/myapp/index.html"
+'1  1  0  ~/index.html
+|4,49,1,0,1776336806,"~/index.html"
+'2  6  0  ~/project/.git/MERGE_MSG
+|4,50,6,0,1776257266,"~/project/.git/MERGE_MSG"
 '3  9  0  ~/project/.git/MERGE_MSG
 |4,51,9,0,1776256531,"~/project/.git/MERGE_MSG"
+'4  9  0  ~/project/.git/MERGE_MSG
+|4,52,9,0,1776256531,"~/project/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  1  0  ~/myapp/index.html
+|4,39,1,0,1776503439,"~/myapp/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1776336806,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1776336806,"~/index.html"
 -'  6  0  ~/project/.git/MERGE_MSG
 |4,39,6,0,1776257266,"~/project/.git/MERGE_MSG"
 -'  6  0  ~/project/.git/MERGE_MSG
 |4,39,6,0,1776257266,"~/project/.git/MERGE_MSG"
+-'  6  0  ~/project/.git/MERGE_MSG
+|4,39,6,0,1776257266,"~/project/.git/MERGE_MSG"
+-'  6  0  ~/project/.git/MERGE_MSG
+|4,39,6,0,1776257266,"~/project/.git/MERGE_MSG"
+-'  1  0  ~/project/.git/MERGE_MSG
+|4,39,1,0,1776256694,"~/project/.git/MERGE_MSG"
+-'  1  0  ~/project/.git/MERGE_MSG
+|4,39,1,0,1776256694,"~/project/.git/MERGE_MSG"
 -'  1  0  ~/project/.git/MERGE_MSG
 |4,39,1,0,1776256694,"~/project/.git/MERGE_MSG"
 -'  1  0  ~/project/.git/MERGE_MSG
@@ -63,12 +77,28 @@
 |4,39,9,0,1776256531,"~/project/.git/MERGE_MSG"
 -'  9  0  ~/project/.git/MERGE_MSG
 |4,39,9,0,1776256531,"~/project/.git/MERGE_MSG"
+-'  9  0  ~/project/.git/MERGE_MSG
+|4,39,9,0,1776256531,"~/project/.git/MERGE_MSG"
+-'  9  0  ~/project/.git/MERGE_MSG
+|4,39,9,0,1776256531,"~/project/.git/MERGE_MSG"
+-'  9  0  ~/project/.git/MERGE_MSG
+|4,39,9,0,1776256531,"~/project/.git/MERGE_MSG"
+-'  9  0  ~/project/.git/MERGE_MSG
+|4,39,9,0,1776256531,"~/project/.git/MERGE_MSG"
+-'  1  0  ~/project/.git/MERGE_MSG
+|4,39,1,0,1776256430,"~/project/.git/MERGE_MSG"
+-'  1  0  ~/project/.git/MERGE_MSG
+|4,39,1,0,1776256430,"~/project/.git/MERGE_MSG"
 -'  1  0  ~/project/.git/MERGE_MSG
 |4,39,1,0,1776256430,"~/project/.git/MERGE_MSG"
 -'  1  0  ~/project/.git/MERGE_MSG
 |4,39,1,0,1776256430,"~/project/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/myapp/index.html
+	*	1776503439	0
+	"	1	0
 
 > ~/index.html
 	*	1776336806	0

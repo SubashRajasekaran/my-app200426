@@ -121,3 +121,114 @@ docker build -t myapp1
 cd myapp1/
 docker build -t myapp1 .
 docker run -d -p 8081:80 myapp1
+ls
+cd myapp1/
+ls
+git init
+cd ..
+git inti
+git init
+git add .
+git submodule init
+git submodule update
+ls -a myapp1/
+git init
+git commit -m "first commit"
+git add .
+git submodule add https://github.com/SubashRajasekaran/project.git myapp1
+rm -rf myapp1
+git rm --cached myapp1
+ls
+rm -rf .git/modules/myapp1
+git submodule add https://github.com/SubashRajasekaran/project.git myapp1
+ls
+git commit -m "Added myapp1 as submodule"
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/SubashRajasekaran/project.git
+git push -u origin main
+git branch
+git push -u origin project
+ls
+git push origin main
+ls
+cd project/
+git push origin main
+ls
+git pull origin main
+ls
+cd ..
+sudo usermod -aG docker jenkins
+sudo systemctl restart jenkins
+mkdir myapp
+cd myapp
+nano Dockerfile
+nano index.html
+ls
+git push
+git clone https://github.com/SubashRajasekaran/project.git
+git pull
+ls
+cd project/
+ls
+cd ..
+git commit
+git add Dockerfile
+git commit -m "Add Dockerfile
+"
+git commit -m "Add Dockerfile"
+git push origin main
+git checkout -b UAT
+git init
+git add Dockerfile
+git commit -m "Add Dockerfile"
+git remote add origin https://github.com/SubashRajasekaran/project.git
+git branch -M main
+git push -u origin main
+git pull
+git push -u origin main
+git pull origin main --rebase
+ls
+git push origin main
+ls
+d myapp
+cd myapp
+ls
+vi index.html 
+nano Dockerfile 
+ls
+sudo cp index.html /usr/share/nginx/html/
+ls -lrth
+nano index.html 
+ls
+cd myapp1
+ls
+cd ..
+cd myapp
+ls
+nano index.html 
+git push
+git push index.html
+ls
+cd myapp
+git init
+git add index.html
+git commit -m "Add index.html"
+git remote add origin https://github.com/SubashRajasekaran/project.git
+git push -u origin main
+nano index.html
+git push -u origin main
+cd myapp
+git status
+git add index.html 
+git add index.html && git commit -m "Update index.html" && git push
+nano index.html 
+git add index.html && git commit -m "Update index.html" && git push
+docker ps -a
+docker logs mycontainer
+docker logs myapp
+docker logs myapp-container
+ls
+mkdir my-app
+cd my-app/
+nano app.js
